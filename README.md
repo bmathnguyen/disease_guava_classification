@@ -1,4 +1,4 @@
-# disease_guava_classification**
+# **disease_guava_classification**
 This model predicts guava diseases.This model prediction accuracy is 90.73%(test data) && 92.38% accuracy (validation_data)
 
 
