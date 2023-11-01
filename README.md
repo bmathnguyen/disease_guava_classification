@@ -54,7 +54,7 @@ For about the dataset, follow this: https://www.kaggle.com/datasets/quangtranmin
 
 
 #### 0.Input image
-![layer_0](https://github.com/HSAkash/Guava-Disease/raw/main/related_images/test_image.png)
+![layer_0](https://github.com/bmathnguyen/disease_guava_classification/blob/main/output/output.png)
 #### 1.Loss 
 ![layer_0](https://github.com/bmathnguyen/disease_guava_classification/blob/main/output/output2.png)
 #### 2.Accurancy 
