@@ -5,7 +5,7 @@ This model predicts guava diseases.This model prediction accuracy is 90.73%(test
 ## **1. Motivation and goals**
 - Fruit tree quality monitoring and warning system in agriculture applying artificial intelligence. For the purpose of monitoring to promptly detect diseased fruit trees, the system includes a fly camera that will capture images of trees, leaves, and fruits to the server system.
 - All information will be sent to the WebServer system. Thereby helping managers easily observe and control remotely via the IoT system. 
-## **2. Các bước thực hiện**
+## **2. Implementation step**
 
 # **2.1 Data collection**
 - Collect data from Kaggle, Google, and sources on the Internet
